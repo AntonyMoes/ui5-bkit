@@ -4,3 +4,9 @@
 /home/antonymo/My Data/IT_projects/C#/Lab_1/Lab_1/obj/x86/Debug/Lab_1.csproj.CoreCompileInputs.cache
 /home/antonymo/My Data/IT_projects/C#/Lab_1/Lab_1/obj/x86/Debug/Lab_1.exe
 /home/antonymo/My Data/IT_projects/C#/Lab_1/Lab_1/obj/x86/Debug/Lab_1.pdb
+/home/antonymo/My Data/IT_projects/C#/BKIT_Labs/Lab_1/bin/Debug/Lab_1.exe
+/home/antonymo/My Data/IT_projects/C#/BKIT_Labs/Lab_1/bin/Debug/Lab_1.pdb
+/home/antonymo/My Data/IT_projects/C#/BKIT_Labs/Lab_1/obj/x86/Debug/Lab_1.csprojResolveAssemblyReference.cache
+/home/antonymo/My Data/IT_projects/C#/BKIT_Labs/Lab_1/obj/x86/Debug/Lab_1.csproj.CoreCompileInputs.cache
+/home/antonymo/My Data/IT_projects/C#/BKIT_Labs/Lab_1/obj/x86/Debug/Lab_1.exe
+/home/antonymo/My Data/IT_projects/C#/BKIT_Labs/Lab_1/obj/x86/Debug/Lab_1.pdb
