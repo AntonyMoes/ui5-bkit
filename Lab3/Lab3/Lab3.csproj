@@ -40,10 +40,15 @@
   <ItemGroup>
     <Compile Include="Circle.cs" />
     <Compile Include="Figure.cs" />
+    <Compile Include="FigureMatrixCheckEmpty.cs" />
+    <Compile Include="IMatrixCheckEmpty.cs" />
     <Compile Include="IPrint.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Rectangle.cs" />
+    <Compile Include="SimpleList.cs" />
+    <Compile Include="SimpleStack.cs" />
+    <Compile Include="SparseMatrix.cs" />
     <Compile Include="Square.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

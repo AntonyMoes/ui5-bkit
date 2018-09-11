@@ -7,6 +7,8 @@
       <e p="Lab3" t="IncludeRecursive">
         <e p="Circle.cs" t="Include" />
         <e p="Figure.cs" t="Include" />
+        <e p="FigureMatrixCheckEmpty.cs" t="Include" />
+        <e p="IMatrixCheckEmpty.cs" t="Include" />
         <e p="IPrint.cs" t="Include" />
         <e p="Lab3.csproj" t="IncludeRecursive" />
         <e p="Program.cs" t="Include" />
@@ -14,6 +16,9 @@
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
         <e p="Rectangle.cs" t="Include" />
+        <e p="SimpleList.cs" t="Include" />
+        <e p="SimpleStack.cs" t="Include" />
+        <e p="SparseMatrix.cs" t="Include" />
         <e p="Square.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive" />
