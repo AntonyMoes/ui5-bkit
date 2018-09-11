@@ -17,6 +17,7 @@
         </e>
         <e p="Rectangle.cs" t="Include" />
         <e p="SimpleList.cs" t="Include" />
+        <e p="SimpleListItem.cs" t="Include" />
         <e p="SimpleStack.cs" t="Include" />
         <e p="SparseMatrix.cs" t="Include" />
         <e p="Square.cs" t="Include" />

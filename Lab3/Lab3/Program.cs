@@ -60,16 +60,17 @@ namespace Lab3
             cube[2, 2, 2] = circle;
             Console.WriteLine(cube.ToString());
             Console.WriteLine("\nСписок");
-            /*
-            SimpleList<Figure> list = new SimpleList<Figure>();
-            list.Add(square);
-            list.Add(rect);
-            list.Add(circle);
-            foreach (var x in list) Console.WriteLine(x);
-            list.Sort();
+            
+            SimpleList<Figure> simpleList = new SimpleList<Figure>();
+            simpleList.Add(square);
+            simpleList.Add(rect);
+            simpleList.Add(circle);
+            foreach (var x in simpleList) Console.WriteLine(x);
+            simpleList.Sort();
             Console.WriteLine("\nСортировка списка");
-            foreach (var x in list) Console.WriteLine(x);
-
+            foreach (var x in simpleList) Console.WriteLine(x);
+            
+            
             Console.WriteLine("\nСтек");
             SimpleStack<Figure> stack = new SimpleStack<Figure>();
             stack.Push(rect);
@@ -80,7 +81,7 @@ namespace Lab3
                 Figure f = stack.Pop();
                 Console.WriteLine(f);
             }
-            */
+            
         }
     }
 }
