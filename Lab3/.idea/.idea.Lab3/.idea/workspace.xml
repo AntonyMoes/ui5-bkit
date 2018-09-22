@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="402facdc-0bff-4a21-b99d-00037d48d42f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab3/SimpleListItem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab3/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab3/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/Lab3.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Lab3.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/SimpleList.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/SimpleList.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/SimpleStack.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/SimpleStack.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/bin/Debug/Lab3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/bin/Debug/Lab3.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/bin/Debug/Lab3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/bin/Debug/Lab3.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/obj/Debug/Lab3.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/obj/Debug/Lab3.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/obj/Debug/Lab3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/obj/Debug/Lab3.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/obj/Debug/Lab3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/obj/Debug/Lab3.pdb" afterDir="false" />
-    </list>
+    <list default="true" id="402facdc-0bff-4a21-b99d-00037d48d42f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +12,7 @@
     <session id="1625162174">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -41,34 +29,34 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="2290" />
+          <entry key="C#" value="2335" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="2290" />
+          <entry key="cs" value="2335" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lab3/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="65" column="33" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
+            <state relative-caret-position="623">
+              <caret line="79" column="13" lean-forward="true" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
               <folding>
-                <marker date="1536694211020" expanded="true" signature="6:85" ph="..." />
-                <marker date="1536694211020" expanded="true" signature="101:2638" ph="{...}" />
-                <marker date="1536694211020" expanded="true" signature="130:2636" ph="{...}" />
-                <marker date="1536694211020" expanded="true" signature="183:2630" ph="{...}" />
-                <marker date="1536694211020" expanded="true" signature="596:675" ph="{...}" />
-                <marker date="1536694211020" expanded="true" signature="851:930" ph="{...}" />
-                <marker date="1536694211020" expanded="true" signature="1162:1241" ph="{...}" />
-                <marker date="1536694211020" expanded="true" signature="1401:1480" ph="{...}" />
-                <marker date="1536694211020" expanded="true" signature="2259:2620" ph="/* Console.WriteLine(&quot;\nСтек&quot;); ... */" />
+                <marker date="1536694792182" expanded="true" signature="6:85" ph="..." />
+                <marker date="1536694792182" expanded="true" signature="101:2634" ph="{...}" />
+                <marker date="1536694792182" expanded="true" signature="130:2632" ph="{...}" />
+                <marker date="1536694792182" expanded="true" signature="183:2626" ph="{...}" />
+                <marker date="1536694792182" expanded="true" signature="596:675" ph="{...}" />
+                <marker date="1536694792182" expanded="true" signature="851:930" ph="{...}" />
+                <marker date="1536694792182" expanded="true" signature="1162:1241" ph="{...}" />
+                <marker date="1536694792182" expanded="true" signature="1401:1480" ph="{...}" />
+                <marker date="1536694792182" expanded="true" signature="2497:2603" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -115,17 +103,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lab3/SimpleStack.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="544">
+              <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
               <folding>
-                <marker date="1536694666047" expanded="true" signature="29:831" ph="{...}" />
-                <marker date="1536694666047" expanded="true" signature="109:829" ph="{...}" />
-                <marker date="1536694666047" expanded="true" signature="148:196" ph="{...}" />
-                <marker date="1536694666047" expanded="true" signature="220:814" ph="{...}" />
-                <marker date="1536694666047" expanded="true" signature="293:745" ph="{...}" />
+                <marker date="1536694770375" expanded="true" signature="29:772" ph="{...}" />
+                <marker date="1536694770375" expanded="true" signature="109:770" ph="{...}" />
+                <marker date="1536694770375" expanded="true" signature="148:196" ph="{...}" />
+                <marker date="1536694770375" expanded="true" signature="220:755" ph="{...}" />
+                <marker date="1536694770375" expanded="true" signature="294:351" ph="{...}" />
+                <marker date="1536694770375" expanded="true" signature="384:483" ph="{...}" />
+                <marker date="1536694770375" expanded="true" signature="500:686" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -269,8 +259,8 @@
         <option value="$PROJECT_DIR$/Lab3/SparseMatrix.cs" />
         <option value="$PROJECT_DIR$/Lab3/SimpleListItem.cs" />
         <option value="$PROJECT_DIR$/Lab3/SimpleList.cs" />
-        <option value="$PROJECT_DIR$/Lab3/Program.cs" />
         <option value="$PROJECT_DIR$/Lab3/SimpleStack.cs" />
+        <option value="$PROJECT_DIR$/Lab3/Program.cs" />
       </list>
     </option>
   </component>
@@ -280,11 +270,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="299" />
     <option name="y" value="24" />
-    <option name="width" value="1402" />
-    <option name="height" value="1029" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -362,12 +352,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536653210088</updated>
-      <workItem from="1536653214820" duration="10654000" />
+      <workItem from="1536653214820" duration="11383000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10654000" />
+    <option name="totallyTimeSpent" value="11383000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -379,11 +369,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="80" y="-4" width="1841" height="1085" extended-state="6" />
-    <editor active="true" />
+    <frame x="299" y="24" width="1400" height="1000" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986057" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33136094" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -395,7 +384,7 @@
       <window_info anchor="bottom" id="Build" weight="0.3294979" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3294979" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36165327" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -581,34 +570,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab3/Program.cs">
+    <entry file="file://$PROJECT_DIR$/Lab3/SimpleStack.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="65" column="33" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
+        <state relative-caret-position="544">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
           <folding>
-            <marker date="1536694211020" expanded="true" signature="6:85" ph="..." />
-            <marker date="1536694211020" expanded="true" signature="101:2638" ph="{...}" />
-            <marker date="1536694211020" expanded="true" signature="130:2636" ph="{...}" />
-            <marker date="1536694211020" expanded="true" signature="183:2630" ph="{...}" />
-            <marker date="1536694211020" expanded="true" signature="596:675" ph="{...}" />
-            <marker date="1536694211020" expanded="true" signature="851:930" ph="{...}" />
-            <marker date="1536694211020" expanded="true" signature="1162:1241" ph="{...}" />
-            <marker date="1536694211020" expanded="true" signature="1401:1480" ph="{...}" />
-            <marker date="1536694211020" expanded="true" signature="2259:2620" ph="/* Console.WriteLine(&quot;\nСтек&quot;); ... */" />
+            <marker date="1536694770375" expanded="true" signature="29:772" ph="{...}" />
+            <marker date="1536694770375" expanded="true" signature="109:770" ph="{...}" />
+            <marker date="1536694770375" expanded="true" signature="148:196" ph="{...}" />
+            <marker date="1536694770375" expanded="true" signature="220:755" ph="{...}" />
+            <marker date="1536694770375" expanded="true" signature="294:351" ph="{...}" />
+            <marker date="1536694770375" expanded="true" signature="384:483" ph="{...}" />
+            <marker date="1536694770375" expanded="true" signature="500:686" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab3/SimpleStack.cs">
+    <entry file="file://$PROJECT_DIR$/Lab3/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="623">
+          <caret line="79" column="13" lean-forward="true" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
           <folding>
-            <marker date="1536694666047" expanded="true" signature="29:831" ph="{...}" />
-            <marker date="1536694666047" expanded="true" signature="109:829" ph="{...}" />
-            <marker date="1536694666047" expanded="true" signature="148:196" ph="{...}" />
-            <marker date="1536694666047" expanded="true" signature="220:814" ph="{...}" />
-            <marker date="1536694666047" expanded="true" signature="293:745" ph="{...}" />
+            <marker date="1536694792182" expanded="true" signature="6:85" ph="..." />
+            <marker date="1536694792182" expanded="true" signature="101:2634" ph="{...}" />
+            <marker date="1536694792182" expanded="true" signature="130:2632" ph="{...}" />
+            <marker date="1536694792182" expanded="true" signature="183:2626" ph="{...}" />
+            <marker date="1536694792182" expanded="true" signature="596:675" ph="{...}" />
+            <marker date="1536694792182" expanded="true" signature="851:930" ph="{...}" />
+            <marker date="1536694792182" expanded="true" signature="1162:1241" ph="{...}" />
+            <marker date="1536694792182" expanded="true" signature="1401:1480" ph="{...}" />
+            <marker date="1536694792182" expanded="true" signature="2497:2603" ph="{...}" />
           </folding>
         </state>
       </provider>
