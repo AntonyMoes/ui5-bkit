@@ -1,0 +1,6 @@
+/home/antonymo/My Data/IT_projects/C#/BKIT_Labs/Lab6/Lab6/bin/Debug/Lab6.exe
+/home/antonymo/My Data/IT_projects/C#/BKIT_Labs/Lab6/Lab6/bin/Debug/Lab6.pdb
+/home/antonymo/My Data/IT_projects/C#/BKIT_Labs/Lab6/Lab6/obj/Debug/Lab6.csprojResolveAssemblyReference.cache
+/home/antonymo/My Data/IT_projects/C#/BKIT_Labs/Lab6/Lab6/obj/Debug/Lab6.csproj.CoreCompileInputs.cache
+/home/antonymo/My Data/IT_projects/C#/BKIT_Labs/Lab6/Lab6/obj/Debug/Lab6.exe
+/home/antonymo/My Data/IT_projects/C#/BKIT_Labs/Lab6/Lab6/obj/Debug/Lab6.pdb
