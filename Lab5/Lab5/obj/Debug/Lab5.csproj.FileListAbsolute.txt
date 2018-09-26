@@ -1,0 +1,9 @@
+G:\IT_projects\C#\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+G:\IT_projects\C#\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.Cache
+G:\IT_projects\C#\Lab5\Lab5\bin\Debug\Lab5.exe.config
+G:\IT_projects\C#\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+G:\IT_projects\C#\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+G:\IT_projects\C#\Lab5\Lab5\bin\Debug\Lab5.exe
+G:\IT_projects\C#\Lab5\Lab5\bin\Debug\Lab5.pdb
+G:\IT_projects\C#\Lab5\Lab5\obj\Debug\Lab5.exe
+G:\IT_projects\C#\Lab5\Lab5\obj\Debug\Lab5.pdb
