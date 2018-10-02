@@ -12,7 +12,11 @@ namespace Lab_1 {
 			}
 
 			double discriminant = arr[1] * arr[1] - 4 * arr[0] * arr[2];
-			if (discriminant < 0) {
+			if (arr[0] == 0)
+			{
+				Console.WriteLine("Корень уравнения : {0}.", -arr[2] / arr[1]);
+			}
+			else if (discriminant < 0) {
 				Console.WriteLine("Действительных корней нет.");
 			} else if (discriminant == 0) {
 				Console.WriteLine("Корни уравнения равны между собой и равны {0}.", -arr[1] / (2 * arr[0]));

@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366782eb-61ca-4180-a610-72006464c69e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_1/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_1/bin/Debug/Lab_1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_1/bin/Debug/Lab_1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_1/bin/Debug/Lab_1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_1/bin/Debug/Lab_1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_1/obj/x86/Debug/Lab_1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_1/obj/x86/Debug/Lab_1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_1/obj/x86/Debug/Lab_1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_1/obj/x86/Debug/Lab_1.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,27 +18,37 @@
     <session id="311187855">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="1" />
+          <entry key="cs" value="2" />
           <entry key="csproj" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="1" />
+          <entry key="C#" value="2" />
           <entry key="Csproj" value="1" />
         </counts>
       </usages-collector>
-      <usages-collector id="statistics.file.types.edit" />
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="57" />
+        </counts>
+      </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
-      <usages-collector id="statistics.file.extensions.edit" />
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="57" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
@@ -42,17 +56,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lab_1/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="272">
+              <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
               <folding>
-                <marker date="1536567325649" expanded="true" signature="31:1034" ph="{...}" />
-                <marker date="1536567325649" expanded="true" signature="53:1032" ph="{...}" />
-                <marker date="1536567325649" expanded="true" signature="96:772" ph="{...}" />
-                <marker date="1536567325649" expanded="true" signature="244:310" ph="{...}" />
-                <marker date="1536567325649" expanded="true" signature="401:460" ph="{...}" />
-                <marker date="1536567325649" expanded="true" signature="489:592" ph="{...}" />
-                <marker date="1536567325649" expanded="true" signature="825:1026" ph="{...}" />
-                <marker date="1536567325649" expanded="true" signature="939:1008" ph="{...}" />
+                <marker date="1538466277452" expanded="true" signature="31:1137" ph="{...}" />
+                <marker date="1538466277452" expanded="true" signature="53:1135" ph="{...}" />
+                <marker date="1538466277452" expanded="true" signature="96:875" ph="{...}" />
+                <marker date="1538466277452" expanded="true" signature="244:310" ph="{...}" />
+                <marker date="1538466277452" expanded="true" signature="395:473" ph="{...}" />
+                <marker date="1538466277452" expanded="true" signature="504:563" ph="{...}" />
+                <marker date="1538466277452" expanded="true" signature="592:695" ph="{...}" />
+                <marker date="1538466277452" expanded="true" signature="928:1129" ph="{...}" />
+                <marker date="1538466277452" expanded="true" signature="1042:1111" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -65,6 +80,13 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Lab_1/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Lab_1/Program.cs" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -156,11 +178,12 @@
       <updated>1536592658397</updated>
       <workItem from="1536592663495" duration="169000" />
       <workItem from="1536592999691" duration="699000" />
+      <workItem from="1538465420279" duration="1345000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="868000" />
+    <option name="totallyTimeSpent" value="2213000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -174,13 +197,13 @@
   <component name="ToolWindowManager">
     <frame x="80" y="-4" width="1841" height="1085" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17791411" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18014501" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3002092" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39958158" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -214,26 +237,38 @@
           <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Lab_1/Program.cs</url>
+          <line>13</line>
+          <properties documentPath="$PROJECT_DIR$/Lab_1/Program.cs" initialLine="13">
+            <startOffsets>
+              <option value="315" />
+            </startOffsets>
+            <endOffsets>
+              <option value="375" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lab_1/Lab_1.csproj">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab_1/Lab_1.csproj" />
     <entry file="file://$PROJECT_DIR$/Lab_1/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="272">
+          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
           <folding>
-            <marker date="1536567325649" expanded="true" signature="31:1034" ph="{...}" />
-            <marker date="1536567325649" expanded="true" signature="53:1032" ph="{...}" />
-            <marker date="1536567325649" expanded="true" signature="96:772" ph="{...}" />
-            <marker date="1536567325649" expanded="true" signature="244:310" ph="{...}" />
-            <marker date="1536567325649" expanded="true" signature="401:460" ph="{...}" />
-            <marker date="1536567325649" expanded="true" signature="489:592" ph="{...}" />
-            <marker date="1536567325649" expanded="true" signature="825:1026" ph="{...}" />
-            <marker date="1536567325649" expanded="true" signature="939:1008" ph="{...}" />
+            <marker date="1538466277452" expanded="true" signature="31:1137" ph="{...}" />
+            <marker date="1538466277452" expanded="true" signature="53:1135" ph="{...}" />
+            <marker date="1538466277452" expanded="true" signature="96:875" ph="{...}" />
+            <marker date="1538466277452" expanded="true" signature="244:310" ph="{...}" />
+            <marker date="1538466277452" expanded="true" signature="395:473" ph="{...}" />
+            <marker date="1538466277452" expanded="true" signature="504:563" ph="{...}" />
+            <marker date="1538466277452" expanded="true" signature="592:695" ph="{...}" />
+            <marker date="1538466277452" expanded="true" signature="928:1129" ph="{...}" />
+            <marker date="1538466277452" expanded="true" signature="1042:1111" ph="{...}" />
           </folding>
         </state>
       </provider>
