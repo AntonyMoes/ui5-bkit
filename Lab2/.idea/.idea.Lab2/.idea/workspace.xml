@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f055d9ad-02da-4386-9b9f-0f9dc1cefe9d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Lab2/bin/Debug/Lab2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/bin/Debug/Lab2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/bin/Debug/Lab2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/bin/Debug/Lab2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/obj/Debug/Lab2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/obj/Debug/Lab2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/obj/Debug/Lab2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/obj/Debug/Lab2.pdb" afterDir="false" />
-    </list>
+    <list default="true" id="f055d9ad-02da-4386-9b9f-0f9dc1cefe9d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +13,10 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="2" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -44,6 +40,7 @@
           <entry key="C#" value="796" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
@@ -90,11 +87,11 @@
             <state relative-caret-position="136">
               <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
               <folding>
-                <marker date="1538466794183" expanded="true" signature="29:563" ph="{...}" />
-                <marker date="1538466794183" expanded="true" signature="75:561" ph="{...}" />
-                <marker date="1538466794183" expanded="true" signature="135:246" ph="{...}" />
-                <marker date="1538466794183" expanded="true" signature="403:458" ph="{...}" />
-                <marker date="1538466794183" expanded="true" signature="487:555" ph="{...}" />
+                <marker date="1538988100675" expanded="true" signature="29:563" ph="{...}" />
+                <marker date="1538988100675" expanded="true" signature="75:561" ph="{...}" />
+                <marker date="1538988100675" expanded="true" signature="135:246" ph="{...}" />
+                <marker date="1538988100675" expanded="true" signature="403:458" ph="{...}" />
+                <marker date="1538988100675" expanded="true" signature="487:555" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -115,12 +112,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Lab2/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Lab2/Square.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Lab2/IPrint.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Lab2/Rectangle.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Lab2/Figure.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lab2/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Lab2/Circle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lab2/Figure.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lab2/Rectangle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lab2/IPrint.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -141,7 +138,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="299" />
     <option name="y" value="24" />
     <option name="width" value="1402" />
@@ -155,6 +152,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -172,7 +170,6 @@
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -224,11 +221,12 @@
       <updated>1536596273242</updated>
       <workItem from="1536596278384" duration="3171000" />
       <workItem from="1538466800548" duration="490000" />
+      <workItem from="1538989720696" duration="599000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3661000" />
+    <option name="totallyTimeSpent" value="4260000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -243,7 +241,7 @@
     <frame x="80" y="-4" width="1841" height="1085" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2526492" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25543782" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -327,6 +325,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding>
+            <marker date="1538988100675" expanded="true" signature="29:563" ph="{...}" />
+            <marker date="1538988100675" expanded="true" signature="75:561" ph="{...}" />
+            <marker date="1538988100675" expanded="true" signature="135:246" ph="{...}" />
+            <marker date="1538988100675" expanded="true" signature="403:458" ph="{...}" />
+            <marker date="1538988100675" expanded="true" signature="487:555" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
