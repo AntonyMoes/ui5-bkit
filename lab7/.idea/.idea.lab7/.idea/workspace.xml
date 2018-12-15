@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a699108c-b2b3-4374-820c-7950e04470af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.lab7/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.lab7/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.lab7/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.lab7/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.lab7/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.lab7/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/lab7.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/obj/Debug/lab7.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.lab7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lab7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab7/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lab7/Program.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +15,11 @@
     <session id="867316368">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -40,12 +34,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="15" />
+          <entry key="cs" value="2770" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="15" />
+          <entry key="C#" value="2770" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -53,60 +47,84 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lab7/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-206">
-              <caret line="241" column="65" lean-forward="true" selection-start-line="241" selection-start-column="65" selection-end-line="241" selection-end-column="65" />
+            <state relative-caret-position="288">
+              <caret line="316" column="56" selection-start-line="316" selection-start-column="56" selection-end-line="316" selection-end-column="56" />
               <folding>
-                <marker date="1540674495231" expanded="true" signature="6:66" ph="..." />
-                <marker date="1540674495231" expanded="true" signature="82:21501" ph="{...}" />
-                <marker date="1540674495231" expanded="true" signature="111:21499" ph="{...}" />
-                <marker date="1540674495231" expanded="false" signature="126:187" ph="/// Класс данных ... " />
-                <marker date="1540674495231" expanded="false" signature="213:1085" ph="{...}" />
-                <marker date="1540674495231" expanded="false" signature="236:297" ph="/// Ключ ... " />
-                <marker date="1540674495231" expanded="false" signature="338:410" ph="/// Для группировки ... " />
-                <marker date="1540674495231" expanded="false" signature="455:520" ph="/// Значение ... " />
-                <marker date="1540674495231" expanded="false" signature="567:635" ph="/// Конструктор ... " />
-                <marker date="1540674495231" expanded="true" signature="686:805" ph="{...}" />
-                <marker date="1540674495231" expanded="false" signature="819:895" ph="/// Приведение к строке ... " />
-                <marker date="1540674495231" expanded="true" signature="941:1075" ph="{...}" />
-                <marker date="1540674495231" expanded="false" signature="1095:1170" ph="/// Класс для сравнения данных ... " />
-                <marker date="1540674495231" expanded="false" signature="1238:1596" ph="{...}" />
-                <marker date="1540674495231" expanded="false" signature="1296:1481" ph="{...}" />
-                <marker date="1540674495231" expanded="false" signature="1527:1586" ph="{...}" />
-                <marker date="1540674495231" expanded="false" signature="1606:1675" ph="/// Связь между списками ... " />
-                <marker date="1540674495231" expanded="false" signature="1705:1912" ph="{...}" />
-                <marker date="1540674495231" expanded="false" signature="1814:1902" ph="{...}" />
-                <marker date="1540674495231" expanded="false" signature="1998:2192" ph="{...}" />
-                <marker date="1540674495231" expanded="false" signature="2255:2451" ph="{...}" />
-                <marker date="1540674495231" expanded="false" signature="2527:2766" ph="{...}" />
-                <marker date="1540674495231" expanded="false" signature="2834:3092" ph="{...}" />
-                <marker date="1540674495231" expanded="true" signature="3141:21099" ph="{...}" />
-                <marker date="1540674495231" expanded="true" signature="3872:4054" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
-                <marker date="1540674495231" expanded="true" signature="4656:4838" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
-                <marker date="1540674495231" expanded="true" signature="5344:5429" ph="{...}" />
-                <marker date="1540674495231" expanded="true" signature="5595:5777" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
-                <marker date="1540674495231" expanded="true" signature="6347:6529" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
-                <marker date="1540674495231" expanded="true" signature="7848:8069" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
-                <marker date="1540674495231" expanded="true" signature="8314:8477" ph="{...}" />
-                <marker date="1540674495231" expanded="true" signature="9715:9949" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
-                <marker date="1540674495231" expanded="true" signature="12866:13048" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
-                <marker date="1540674495231" expanded="true" signature="13334:13617" ph="/* Могут использоваться также следующие агрегирующие функции ... */" />
-                <marker date="1540674495231" expanded="true" signature="13775:13903" ph="{...}" />
-                <marker date="1540674495231" expanded="true" signature="13972:14154" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
-                <marker date="1540674495231" expanded="true" signature="14390:14554" ph="{...}" />
-                <marker date="1540674495231" expanded="true" signature="14970:15130" ph="{...}" />
-                <marker date="1540674495231" expanded="true" signature="15486:15650" ph="{...}" />
-                <marker date="1540674495231" expanded="true" signature="15941:16105" ph="{...}" />
-                <marker date="1540674495231" expanded="true" signature="17674:17830" ph="/* let temp2 = from y in d2 where y.id == t1.d2 ... */" />
-                <marker date="1540674495231" expanded="true" signature="17960:18142" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
-                <marker date="1540674495231" expanded="true" signature="19628:19785" ph="{...}" />
-                <marker date="1540674495231" expanded="true" signature="19799:19981" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
-                <marker date="1540674495231" expanded="true" signature="20566:20748" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
-                <marker date="1540674495231" expanded="true" signature="21109:21190" ph="/// Получение нужной страницы данных ... " />
-                <marker date="1540674495231" expanded="false" signature="21268:21493" ph="{...}" />
+                <marker date="1544894506775" expanded="false" signature="6:173" ph="..." />
+                <marker date="1544894506775" expanded="true" signature="189:30547" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="218:30545" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="233:294" ph="/// Класс данных ... " />
+                <marker date="1544894506775" expanded="true" signature="320:1192" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="343:404" ph="/// Ключ ... " />
+                <marker date="1544894506775" expanded="true" signature="445:517" ph="/// Для группировки ... " />
+                <marker date="1544894506775" expanded="true" signature="562:627" ph="/// Значение ... " />
+                <marker date="1544894506775" expanded="true" signature="674:742" ph="/// Конструктор ... " />
+                <marker date="1544894506775" expanded="true" signature="793:912" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="926:1002" ph="/// Приведение к строке ... " />
+                <marker date="1544894506775" expanded="true" signature="1048:1182" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="1223:1552" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="1406:1542" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="1585:1802" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="1708:1792" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="1851:2118" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="2004:2108" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="2128:2203" ph="/// Класс для сравнения данных ... " />
+                <marker date="1544894506775" expanded="true" signature="2271:2629" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="2329:2514" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="2560:2619" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="2639:2708" ph="/// Связь между списками ... " />
+                <marker date="1544894506775" expanded="true" signature="2738:2945" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="2847:2935" ph="{...}" />
+                <marker date="1544894506775" expanded="false" signature="3031:3225" ph="{...}" />
+                <marker date="1544894506775" expanded="false" signature="3288:3484" ph="{...}" />
+                <marker date="1544894506775" expanded="false" signature="3560:3799" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="3867:4125" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="4174:12136" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="4255:4703" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="4782:4938" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="5048:5765" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="6002:6081" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="6356:6433" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="6745:6822" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="7183:7291" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="7643:7711" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="8075:8143" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="8838:9120" ph="/* from rel in depEmpRels ... */" />
+                <marker date="1544894506775" expanded="true" signature="9133:9348" ph="/* var q4 = from dep in departments ... */" />
+                <marker date="1544894506775" expanded="true" signature="9361:9753" ph="/* var lnk1 = from x in d1 ... */" />
+                <marker date="1544894506775" expanded="true" signature="9790:9998" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="9894:9984" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="10784:10992" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="10888:10978" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="11038:12074" ph="/* Console.WriteLine(&quot;Группировка&quot;); ... */" />
+                <marker date="1544894506775" expanded="true" signature="12187:30145" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="12918:13100" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
+                <marker date="1544894506775" expanded="true" signature="13702:13884" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
+                <marker date="1544894506775" expanded="true" signature="14390:14475" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="14641:14823" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
+                <marker date="1544894506775" expanded="true" signature="15393:15575" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
+                <marker date="1544894506775" expanded="true" signature="16894:17115" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
+                <marker date="1544894506775" expanded="true" signature="17360:17523" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="18761:18995" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
+                <marker date="1544894506775" expanded="true" signature="21912:22094" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
+                <marker date="1544894506775" expanded="true" signature="22380:22663" ph="/* Могут использоваться также следующие агрегирующие функции ... */" />
+                <marker date="1544894506775" expanded="true" signature="22821:22949" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="23018:23200" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
+                <marker date="1544894506775" expanded="true" signature="23436:23600" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="24016:24176" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="24532:24696" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="24987:25151" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="26720:26876" ph="/* let temp2 = from y in d2 where y.id == t1.d2 ... */" />
+                <marker date="1544894506775" expanded="true" signature="27006:27188" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
+                <marker date="1544894506775" expanded="true" signature="28674:28831" ph="{...}" />
+                <marker date="1544894506775" expanded="true" signature="28845:29027" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
+                <marker date="1544894506775" expanded="true" signature="29612:29794" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
+                <marker date="1544894506775" expanded="true" signature="30155:30236" ph="/// Получение нужной страницы данных ... " />
+                <marker date="1544894506775" expanded="true" signature="30314:30539" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -134,10 +152,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="314" />
-    <option name="y" value="-1" />
-    <option name="width" value="1402" />
-    <option name="height" value="1029" />
+    <option name="x" value="1000" />
+    <option name="y" value="24" />
+    <option name="width" value="920" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -145,16 +163,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -198,12 +217,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540673722616</updated>
-      <workItem from="1540673725900" duration="3394000" />
+      <workItem from="1540673725900" duration="4102000" />
+      <workItem from="1544616321265" duration="5329000" />
+      <workItem from="1544660783979" duration="4715000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3394000" />
+    <option name="totallyTimeSpent" value="14146000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -218,35 +239,35 @@
     <frame x="80" y="-4" width="1841" height="1085" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986057" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16285555" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.3294979" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35041842" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29288703" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.3294979" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Build" order="14" visible="true" weight="0.47907948" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -264,56 +285,80 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lab7/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-206">
-          <caret line="241" column="65" lean-forward="true" selection-start-line="241" selection-start-column="65" selection-end-line="241" selection-end-column="65" />
+        <state relative-caret-position="288">
+          <caret line="316" column="56" selection-start-line="316" selection-start-column="56" selection-end-line="316" selection-end-column="56" />
           <folding>
-            <marker date="1540674495231" expanded="true" signature="6:66" ph="..." />
-            <marker date="1540674495231" expanded="true" signature="82:21501" ph="{...}" />
-            <marker date="1540674495231" expanded="true" signature="111:21499" ph="{...}" />
-            <marker date="1540674495231" expanded="false" signature="126:187" ph="/// Класс данных ... " />
-            <marker date="1540674495231" expanded="false" signature="213:1085" ph="{...}" />
-            <marker date="1540674495231" expanded="false" signature="236:297" ph="/// Ключ ... " />
-            <marker date="1540674495231" expanded="false" signature="338:410" ph="/// Для группировки ... " />
-            <marker date="1540674495231" expanded="false" signature="455:520" ph="/// Значение ... " />
-            <marker date="1540674495231" expanded="false" signature="567:635" ph="/// Конструктор ... " />
-            <marker date="1540674495231" expanded="true" signature="686:805" ph="{...}" />
-            <marker date="1540674495231" expanded="false" signature="819:895" ph="/// Приведение к строке ... " />
-            <marker date="1540674495231" expanded="true" signature="941:1075" ph="{...}" />
-            <marker date="1540674495231" expanded="false" signature="1095:1170" ph="/// Класс для сравнения данных ... " />
-            <marker date="1540674495231" expanded="false" signature="1238:1596" ph="{...}" />
-            <marker date="1540674495231" expanded="false" signature="1296:1481" ph="{...}" />
-            <marker date="1540674495231" expanded="false" signature="1527:1586" ph="{...}" />
-            <marker date="1540674495231" expanded="false" signature="1606:1675" ph="/// Связь между списками ... " />
-            <marker date="1540674495231" expanded="false" signature="1705:1912" ph="{...}" />
-            <marker date="1540674495231" expanded="false" signature="1814:1902" ph="{...}" />
-            <marker date="1540674495231" expanded="false" signature="1998:2192" ph="{...}" />
-            <marker date="1540674495231" expanded="false" signature="2255:2451" ph="{...}" />
-            <marker date="1540674495231" expanded="false" signature="2527:2766" ph="{...}" />
-            <marker date="1540674495231" expanded="false" signature="2834:3092" ph="{...}" />
-            <marker date="1540674495231" expanded="true" signature="3141:21099" ph="{...}" />
-            <marker date="1540674495231" expanded="true" signature="3872:4054" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
-            <marker date="1540674495231" expanded="true" signature="4656:4838" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
-            <marker date="1540674495231" expanded="true" signature="5344:5429" ph="{...}" />
-            <marker date="1540674495231" expanded="true" signature="5595:5777" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
-            <marker date="1540674495231" expanded="true" signature="6347:6529" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
-            <marker date="1540674495231" expanded="true" signature="7848:8069" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
-            <marker date="1540674495231" expanded="true" signature="8314:8477" ph="{...}" />
-            <marker date="1540674495231" expanded="true" signature="9715:9949" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
-            <marker date="1540674495231" expanded="true" signature="12866:13048" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
-            <marker date="1540674495231" expanded="true" signature="13334:13617" ph="/* Могут использоваться также следующие агрегирующие функции ... */" />
-            <marker date="1540674495231" expanded="true" signature="13775:13903" ph="{...}" />
-            <marker date="1540674495231" expanded="true" signature="13972:14154" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
-            <marker date="1540674495231" expanded="true" signature="14390:14554" ph="{...}" />
-            <marker date="1540674495231" expanded="true" signature="14970:15130" ph="{...}" />
-            <marker date="1540674495231" expanded="true" signature="15486:15650" ph="{...}" />
-            <marker date="1540674495231" expanded="true" signature="15941:16105" ph="{...}" />
-            <marker date="1540674495231" expanded="true" signature="17674:17830" ph="/* let temp2 = from y in d2 where y.id == t1.d2 ... */" />
-            <marker date="1540674495231" expanded="true" signature="17960:18142" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
-            <marker date="1540674495231" expanded="true" signature="19628:19785" ph="{...}" />
-            <marker date="1540674495231" expanded="true" signature="19799:19981" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
-            <marker date="1540674495231" expanded="true" signature="20566:20748" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
-            <marker date="1540674495231" expanded="true" signature="21109:21190" ph="/// Получение нужной страницы данных ... " />
-            <marker date="1540674495231" expanded="false" signature="21268:21493" ph="{...}" />
+            <marker date="1544894506775" expanded="false" signature="6:173" ph="..." />
+            <marker date="1544894506775" expanded="true" signature="189:30547" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="218:30545" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="233:294" ph="/// Класс данных ... " />
+            <marker date="1544894506775" expanded="true" signature="320:1192" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="343:404" ph="/// Ключ ... " />
+            <marker date="1544894506775" expanded="true" signature="445:517" ph="/// Для группировки ... " />
+            <marker date="1544894506775" expanded="true" signature="562:627" ph="/// Значение ... " />
+            <marker date="1544894506775" expanded="true" signature="674:742" ph="/// Конструктор ... " />
+            <marker date="1544894506775" expanded="true" signature="793:912" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="926:1002" ph="/// Приведение к строке ... " />
+            <marker date="1544894506775" expanded="true" signature="1048:1182" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="1223:1552" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="1406:1542" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="1585:1802" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="1708:1792" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="1851:2118" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="2004:2108" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="2128:2203" ph="/// Класс для сравнения данных ... " />
+            <marker date="1544894506775" expanded="true" signature="2271:2629" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="2329:2514" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="2560:2619" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="2639:2708" ph="/// Связь между списками ... " />
+            <marker date="1544894506775" expanded="true" signature="2738:2945" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="2847:2935" ph="{...}" />
+            <marker date="1544894506775" expanded="false" signature="3031:3225" ph="{...}" />
+            <marker date="1544894506775" expanded="false" signature="3288:3484" ph="{...}" />
+            <marker date="1544894506775" expanded="false" signature="3560:3799" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="3867:4125" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="4174:12136" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="4255:4703" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="4782:4938" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="5048:5765" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="6002:6081" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="6356:6433" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="6745:6822" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="7183:7291" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="7643:7711" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="8075:8143" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="8838:9120" ph="/* from rel in depEmpRels ... */" />
+            <marker date="1544894506775" expanded="true" signature="9133:9348" ph="/* var q4 = from dep in departments ... */" />
+            <marker date="1544894506775" expanded="true" signature="9361:9753" ph="/* var lnk1 = from x in d1 ... */" />
+            <marker date="1544894506775" expanded="true" signature="9790:9998" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="9894:9984" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="10784:10992" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="10888:10978" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="11038:12074" ph="/* Console.WriteLine(&quot;Группировка&quot;); ... */" />
+            <marker date="1544894506775" expanded="true" signature="12187:30145" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="12918:13100" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
+            <marker date="1544894506775" expanded="true" signature="13702:13884" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
+            <marker date="1544894506775" expanded="true" signature="14390:14475" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="14641:14823" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
+            <marker date="1544894506775" expanded="true" signature="15393:15575" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
+            <marker date="1544894506775" expanded="true" signature="16894:17115" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
+            <marker date="1544894506775" expanded="true" signature="17360:17523" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="18761:18995" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
+            <marker date="1544894506775" expanded="true" signature="21912:22094" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
+            <marker date="1544894506775" expanded="true" signature="22380:22663" ph="/* Могут использоваться также следующие агрегирующие функции ... */" />
+            <marker date="1544894506775" expanded="true" signature="22821:22949" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="23018:23200" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
+            <marker date="1544894506775" expanded="true" signature="23436:23600" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="24016:24176" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="24532:24696" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="24987:25151" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="26720:26876" ph="/* let temp2 = from y in d2 where y.id == t1.d2 ... */" />
+            <marker date="1544894506775" expanded="true" signature="27006:27188" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
+            <marker date="1544894506775" expanded="true" signature="28674:28831" ph="{...}" />
+            <marker date="1544894506775" expanded="true" signature="28845:29027" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
+            <marker date="1544894506775" expanded="true" signature="29612:29794" ph="/* ++++++++++++++++++++++++++++++++++++++++++++++++++ ... */" />
+            <marker date="1544894506775" expanded="true" signature="30155:30236" ph="/// Получение нужной страницы данных ... " />
+            <marker date="1544894506775" expanded="true" signature="30314:30539" ph="{...}" />
           </folding>
         </state>
       </provider>
